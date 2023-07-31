@@ -1,0 +1,501 @@
+﻿id,visitsantenatal,visitspostnatal,vaccinateddtp1,diarrheaepisodes,childage,childsex,mothereducation,religion,ses,region,settings
+10001,4,5,1,2,24,M,Tertiary,Muslim,1,Norther region,urban
+10002,4,5,1,2,18,M,Secondary,Jewish,2,Southern region,urban
+10003,2,3,1,2,10,M,Primary,Christian,1,Central region,urban
+10004,1,2,1,0,28,M,Secondary,Other,1,Southern region,urban
+10005,2,3,1,0,44,F,Incomplete primary,Muslim,1,Western region,urban
+10006,0,1,1,1,18,M,Tertiary,Christian,1,Eastern region,rural
+10007,1,2,1,4,32,F,Tertiary,Jewish,2,Norther region,rural
+10008,2,3,1,2,40,F,Primary,Muslim,1,Southern region,urban
+10009,1,2,1,0,22,F,Secondary,Christian,3,Eastern region,rural
+10010,1,2,1,2,14,F,Primary,Muslim,1,Western region,urban
+10011,1,2,1,2,4,F,Secondary,Jewish,3,Western region,urban
+10012,3,4,1,2,6,F,Secondary,Jewish,1,Eastern region,urban
+10013,3,4,1,2,12,F,Primary,Other,1,Western region,urban
+10014,3,4,0,0,28,M,Primary,Other,1,Central region,urban
+10015,2,3,1,0,18,M,Secondary,Muslim,4,Western region,urban
+10016,3,4,1,0,14,M,Tertiary,Other,5,Southern region,urban
+10017,2,3,1,1,32,F,Primary,Christian,1,Norther region,urban
+10018,2,3,1,4,44,F,Tertiary,Jewish,2,Norther region,rural
+10019,1,2,1,2,16,F,Incomplete primary,Jewish,1,Southern region,rural
+10020,0,1,1,0,28,M,Primary,Jewish,3,Western region,rural
+10021,2,3,1,2,38,M,Tertiary,Other,4,Southern region,urban
+10022,1,2,1,2,44,F,Secondary,Jewish,1,Eastern region,rural
+10023,2,3,1,0,10,F,Primary,Christian,1,Southern region,rural
+10024,3,4,1,0,10,F,Primary,Jewish,1,Southern region,urban
+10025,1,2,1,0,28,M,Primary,Christian,1,Southern region,rural
+10026,4,5,1,1,32,M,Tertiary,Other,2,Norther region,urban
+10027,1,2,1,1,36,M,Secondary,Other,1,Central region,rural
+10028,1,2,1,0,16,M,Tertiary,Christian,3,Southern region,urban
+10029,1,2,0,1,4,M,Primary,Christian,2,Central region,rural
+10030,1,2,1,1,30,M,Secondary,Christian,3,Southern region,urban
+10031,1,2,1,2,16,M,Secondary,Christian,1,Norther region,urban
+10032,3,4,0,1,18,M,Incomplete primary,Other,1,Central region,urban
+10033,4,5,1,1,14,F,Incomplete primary,Christian,1,Western region,urban
+10034,4,5,1,1,18,M,Tertiary,Christian,4,Western region,urban
+10035,4,5,1,2,20,M,Tertiary,Jewish,3,Norther region,urban
+10036,3,4,1,2,38,F,Secondary,Other,1,Western region,urban
+10037,2,3,1,3,14,F,Tertiary,Christian,1,Norther region,rural
+10038,3,4,1,2,34,M,Primary,Christian,2,Eastern region,urban
+10039,0,1,1,1,46,F,Incomplete primary,Jewish,1,Norther region,rural
+10040,3,4,1,2,34,F,Primary,Other,2,Eastern region,urban
+10041,2,3,1,2,18,M,Incomplete primary,Jewish,1,Central region,urban
+10042,2,3,0,0,2,M,Primary,Christian,2,Southern region,rural
+10043,2,3,1,0,30,F,Tertiary,Christian,3,Norther region,urban
+10044,2,3,1,2,32,M,Incomplete primary,Christian,1,Eastern region,urban
+10045,4,5,1,2,20,F,Secondary,Christian,2,Southern region,urban
+10046,1,2,1,0,44,M,Tertiary,Other,5,Southern region,urban
+10047,2,3,1,1,36,F,Primary,Christian,1,Western region,urban
+10048,1,2,1,4,12,M,Tertiary,Christian,4,Norther region,rural
+10049,1,2,0,2,42,M,Primary,Muslim,1,Western region,rural
+10050,1,2,1,2,14,F,Primary,Jewish,1,Southern region,urban
+10051,4,5,1,2,26,M,Primary,Other,1,Western region,urban
+10052,0,1,1,1,12,F,Tertiary,Christian,5,Southern region,rural
+10053,4,5,1,2,12,F,Secondary,Jewish,3,Eastern region,urban
+10054,3,4,1,1,10,F,Tertiary,Muslim,1,Norther region,urban
+10055,1,2,1,1,6,M,Secondary,Christian,4,Norther region,rural
+10056,2,3,1,0,2,F,Secondary,Other,1,Norther region,urban
+10057,2,3,1,2,42,F,Primary,Other,1,Eastern region,urban
+10058,4,5,1,1,26,M,Tertiary,Jewish,2,Norther region,urban
+10059,4,5,1,1,18,M,Primary,Christian,3,Eastern region,urban
+10060,1,2,1,2,28,F,Tertiary,Other,4,Western region,rural
+10061,1,2,1,0,18,F,Primary,Other,1,Western region,urban
+10062,1,2,1,1,46,M,Primary,Christian,3,Eastern region,rural
+10063,4,5,1,2,20,F,Primary,Christian,1,Western region,urban
+10064,1,2,1,1,10,M,Incomplete primary,Muslim,1,Western region,urban
+10065,4,5,1,2,30,M,Secondary,Other,2,Southern region,urban
+10066,4,5,1,2,30,F,Tertiary,Other,1,Norther region,urban
+10067,2,3,1,2,26,M,Tertiary,Christian,3,Norther region,urban
+10068,1,2,1,2,46,F,Primary,Christian,1,Eastern region,urban
+10069,2,3,1,2,18,F,Tertiary,Muslim,5,Southern region,urban
+10070,0,1,1,1,10,M,Tertiary,Christian,4,Western region,rural
+10071,2,3,1,4,18,M,Tertiary,Jewish,3,Norther region,rural
+10072,1,2,0,0,30,M,Primary,Other,1,Southern region,urban
+10073,0,1,1,0,18,M,Tertiary,Other,2,Eastern region,rural
+10074,3,4,1,0,10,F,Incomplete primary,Jewish,1,Norther region,urban
+10075,4,5,0,2,4,F,Primary,Other,1,Eastern region,urban
+10076,1,2,1,1,24,M,Primary,Christian,2,Norther region,urban
+10077,1,2,1,1,42,F,Secondary,Christian,3,Western region,urban
+10078,4,5,1,2,12,F,Primary,Jewish,2,Eastern region,urban
+10079,1,2,1,0,20,F,Tertiary,Other,1,Eastern region,urban
+10080,0,1,1,2,22,F,Secondary,Jewish,4,Eastern region,rural
+10081,1,2,0,0,6,F,Primary,Muslim,1,Southern region,urban
+10082,2,3,0,0,10,M,Primary,Christian,2,Southern region,urban
+10083,2,3,1,1,40,M,Primary,Christian,2,Norther region,urban
+10084,2,3,1,1,26,M,Secondary,Muslim,3,Southern region,rural
+10085,0,1,1,0,14,F,Secondary,Other,3,Western region,rural
+10086,0,1,1,2,42,F,Secondary,Jewish,2,Western region,rural
+10087,0,1,1,1,12,M,Secondary,Other,3,Norther region,rural
+10088,0,1,1,1,48,F,Primary,Other,2,Eastern region,rural
+10089,1,2,1,1,24,F,Secondary,Jewish,4,Central region,rural
+10090,4,5,1,2,8,M,Incomplete primary,Other,1,Norther region,urban
+10091,2,3,1,2,40,M,Tertiary,Christian,5,Norther region,urban
+10092,3,4,1,1,26,M,Incomplete primary,Muslim,1,Eastern region,urban
+10093,2,3,0,0,8,F,Incomplete primary,Christian,1,Eastern region,urban
+10094,3,4,1,2,30,F,Secondary,Other,3,Western region,urban
+10095,3,4,1,0,6,F,Primary,Jewish,2,Western region,urban
+10096,4,5,1,0,46,M,Tertiary,Christian,1,Eastern region,urban
+10097,3,4,1,1,2,F,Secondary,Christian,4,Norther region,urban
+10098,3,4,1,2,28,F,Primary,Muslim,3,Norther region,urban
+10099,1,2,1,4,38,M,Primary,Muslim,2,Norther region,rural
+10100,2,3,1,2,18,F,Secondary,Muslim,4,Southern region,rural
+10101,2,3,1,2,44,M,Primary,Christian,1,Norther region,rural
+10102,0,1,1,2,38,M,Incomplete primary,Jewish,1,Western region,rural
+10103,2,3,1,2,28,F,Secondary,Christian,4,Norther region,urban
+10104,1,2,0,2,46,F,Primary,Christian,2,Central region,urban
+10105,2,3,1,4,26,F,Secondary,Other,2,Norther region,rural
+10106,1,2,1,2,38,M,Tertiary,Christian,5,Western region,rural
+10107,2,3,1,1,22,F,Tertiary,Christian,5,Norther region,urban
+10108,4,5,1,0,40,M,Tertiary,Christian,5,Norther region,urban
+10109,3,4,1,0,4,F,Tertiary,Jewish,4,Southern region,urban
+10110,4,5,1,2,26,F,Secondary,Muslim,1,Western region,urban
+10111,0,1,0,1,10,F,Incomplete primary,Muslim,1,Western region,rural
+10112,2,3,1,0,32,F,Secondary,Other,2,Southern region,rural
+10113,2,3,1,2,22,M,Secondary,Other,2,Southern region,urban
+10114,1,2,1,2,30,M,Incomplete primary,Other,1,Western region,urban
+10115,3,4,1,0,20,M,Primary,Jewish,1,Eastern region,urban
+10116,0,1,1,1,18,M,Incomplete primary,Christian,1,Western region,rural
+10117,1,2,1,1,48,M,Tertiary,Muslim,1,Norther region,rural
+10118,4,5,0,0,34,F,Incomplete primary,Christian,1,Central region,urban
+10119,1,2,1,0,18,F,Primary,Other,1,Norther region,urban
+10120,1,2,1,1,40,F,Secondary,Other,2,Eastern region,rural
+10121,2,3,1,1,4,F,Tertiary,Muslim,2,Southern region,urban
+10122,1,2,1,0,42,F,Tertiary,Christian,4,Southern region,urban
+10123,3,4,1,2,42,M,Incomplete primary,Christian,1,Eastern region,urban
+10124,1,2,1,1,6,F,Primary,Christian,1,Norther region,urban
+10125,1,2,1,1,20,M,Incomplete primary,Muslim,1,Central region,urban
+10126,1,2,0,0,12,M,Incomplete primary,Jewish,1,Central region,urban
+10127,0,1,1,1,36,F,Tertiary,Muslim,3,Western region,rural
+10128,1,2,1,1,14,F,Tertiary,Christian,3,Western region,urban
+10129,1,2,1,2,16,M,Tertiary,Christian,5,Southern region,urban
+10130,1,2,1,2,10,F,Primary,Christian,2,Norther region,urban
+10131,0,1,1,0,24,F,Secondary,Other,4,Western region,rural
+10132,1,2,1,1,14,F,Tertiary,Jewish,5,Norther region,rural
+10133,4,5,0,0,44,M,Primary,Christian,2,Central region,urban
+10134,1,2,1,1,18,M,Incomplete primary,Other,1,Western region,urban
+10135,2,3,0,2,22,F,Primary,Christian,2,Central region,rural
+10136,1,2,1,0,26,F,Secondary,Christian,3,Western region,urban
+10137,1,2,1,0,22,M,Secondary,Christian,2,Southern region,urban
+10138,0,1,0,2,12,M,Primary,Other,1,Central region,rural
+10139,3,4,1,2,12,M,Primary,Other,3,Norther region,urban
+10140,2,3,1,0,18,M,Tertiary,Jewish,5,Southern region,urban
+10141,2,3,1,1,18,M,Secondary,Christian,1,Eastern region,rural
+10142,2,3,1,2,42,F,Primary,Christian,2,Eastern region,rural
+10143,1,2,1,0,16,F,Primary,Muslim,3,Eastern region,urban
+10144,2,3,1,0,10,F,Secondary,Muslim,1,Norther region,urban
+10145,1,2,0,1,38,M,Incomplete primary,Jewish,1,Norther region,rural
+10146,4,5,1,0,32,M,Primary,Christian,1,Western region,urban
+10147,3,4,1,0,22,F,Secondary,Christian,2,Norther region,urban
+10148,3,4,1,0,30,M,Secondary,Muslim,4,Norther region,urban
+10149,0,1,1,2,6,M,Primary,Christian,1,Southern region,rural
+10150,3,4,1,1,36,F,Primary,Jewish,1,Western region,urban
+10151,2,3,1,2,12,M,Tertiary,Other,3,Southern region,rural
+10152,1,2,1,1,18,F,Primary,Jewish,1,Norther region,urban
+10153,2,3,0,0,20,M,Primary,Jewish,1,Southern region,urban
+10154,0,1,1,1,34,M,Primary,Other,2,Norther region,rural
+10155,1,2,1,1,42,F,Primary,Muslim,1,Southern region,urban
+10156,2,3,1,2,8,F,Secondary,Jewish,3,Central region,urban
+10157,4,5,1,2,34,M,Primary,Muslim,1,Norther region,urban
+10158,1,2,1,1,30,M,Incomplete primary,Christian,1,Western region,rural
+10159,4,5,1,2,28,M,Secondary,Christian,3,Norther region,urban
+10160,2,3,1,2,30,M,Primary,Christian,1,Central region,urban
+10161,1,2,1,1,38,F,Tertiary,Jewish,5,Norther region,rural
+10162,1,2,1,0,10,F,Primary,Other,1,Western region,urban
+10163,2,3,1,0,12,M,Primary,Christian,1,Southern region,rural
+10164,2,3,1,2,42,F,Primary,Christian,2,Eastern region,urban
+10165,1,2,1,2,26,M,Secondary,Other,3,Norther region,rural
+10166,1,2,1,2,48,M,Primary,Muslim,1,Eastern region,rural
+10167,2,3,1,1,44,M,Tertiary,Christian,4,Eastern region,urban
+10168,0,1,1,2,36,M,Primary,Muslim,2,Norther region,rural
+10169,2,3,0,2,10,F,Primary,Other,2,Eastern region,rural
+10170,2,3,1,1,32,M,Primary,Jewish,2,Southern region,urban
+10171,1,2,1,2,34,F,Tertiary,Christian,2,Eastern region,urban
+10172,1,2,1,0,38,M,Secondary,Christian,4,Eastern region,urban
+10173,1,2,1,2,14,M,Secondary,Jewish,4,Southern region,rural
+10174,4,5,1,2,16,F,Primary,Christian,1,Western region,urban
+10175,2,3,1,2,26,F,Tertiary,Jewish,1,Southern region,urban
+10176,2,3,1,0,28,F,Secondary,Other,4,Eastern region,urban
+10177,2,3,1,2,16,F,Secondary,Christian,4,Norther region,rural
+10178,2,3,1,2,48,F,Primary,Christian,3,Western region,urban
+10179,2,3,1,0,20,F,Primary,Jewish,1,Central region,urban
+10180,2,3,1,1,36,M,Primary,Jewish,1,Western region,rural
+10181,2,3,1,0,28,M,Secondary,Christian,3,Western region,urban
+10182,1,2,1,2,2,F,Primary,Christian,1,Norther region,urban
+10183,4,5,0,0,14,M,Incomplete primary,Christian,1,Western region,urban
+10184,1,2,1,1,32,F,Secondary,Jewish,3,Western region,urban
+10185,3,4,1,2,24,F,Primary,Christian,1,Eastern region,urban
+10186,0,1,1,2,14,M,Secondary,Jewish,1,Southern region,rural
+10187,0,1,1,2,30,F,Incomplete primary,Other,1,Southern region,rural
+10188,2,3,0,1,24,M,Primary,Christian,1,Southern region,rural
+10189,1,2,1,2,16,F,Primary,Muslim,3,Norther region,urban
+10190,3,4,1,2,16,M,Primary,Muslim,1,Central region,urban
+10191,0,1,0,2,14,F,Incomplete primary,Jewish,1,Eastern region,rural
+10192,3,4,1,1,42,F,Incomplete primary,Christian,1,Eastern region,urban
+10193,3,4,1,0,16,F,Tertiary,Christian,1,Southern region,urban
+10194,4,5,1,1,22,F,Secondary,Christian,2,Eastern region,urban
+10195,1,2,0,1,10,M,Incomplete primary,Other,1,Norther region,urban
+10196,1,2,1,0,28,F,Secondary,Christian,1,Central region,rural
+10197,2,3,1,0,34,F,Primary,Jewish,3,Norther region,urban
+10198,2,3,1,0,12,F,Tertiary,Jewish,5,Western region,urban
+10199,2,3,1,1,26,F,Primary,Christian,1,Central region,rural
+10200,4,5,1,1,38,M,Primary,Muslim,3,Eastern region,urban
+10201,3,4,1,1,44,F,Incomplete primary,Christian,1,Central region,urban
+10202,4,5,1,1,4,F,Secondary,Other,1,Norther region,urban
+10203,0,1,1,0,24,F,Primary,Jewish,2,Southern region,rural
+10204,2,3,0,0,46,F,Incomplete primary,Other,1,Southern region,rural
+10205,0,1,1,2,38,F,Tertiary,Christian,3,Central region,rural
+10206,3,4,1,1,6,M,Primary,Muslim,2,Central region,urban
+10207,4,5,1,2,26,M,Secondary,Jewish,1,Norther region,urban
+10208,3,4,1,2,6,F,Primary,Muslim,1,Western region,urban
+10209,0,1,0,2,8,M,Primary,Muslim,1,Central region,rural
+10210,4,5,1,2,14,F,Tertiary,Jewish,4,Western region,urban
+10211,1,2,1,2,20,F,Secondary,Christian,1,Eastern region,urban
+10212,4,5,1,0,24,M,Incomplete primary,Muslim,1,Norther region,urban
+10213,2,3,1,1,30,M,Secondary,Other,2,Eastern region,urban
+10214,0,1,0,2,26,M,Incomplete primary,Muslim,1,Eastern region,rural
+10215,2,3,1,0,6,F,Primary,Christian,1,Western region,urban
+10216,1,2,1,1,28,F,Tertiary,Muslim,3,Central region,rural
+10217,0,1,1,1,30,F,Primary,Other,2,Eastern region,rural
+10218,1,2,1,1,30,F,Secondary,Christian,3,Western region,rural
+10219,1,2,1,4,34,F,Primary,Muslim,1,Norther region,rural
+10220,0,1,1,0,44,M,Primary,Jewish,3,Central region,rural
+10221,1,2,1,1,8,M,Primary,Other,1,Norther region,urban
+10222,1,2,1,1,32,M,Incomplete primary,Christian,1,Eastern region,urban
+10223,2,3,1,1,24,F,Tertiary,Christian,5,Eastern region,rural
+10224,2,3,1,1,44,M,Incomplete primary,Christian,1,Norther region,urban
+10225,2,3,1,1,44,F,Primary,Christian,1,Norther region,urban
+10226,3,4,1,1,34,F,Secondary,Other,4,Western region,urban
+10227,3,4,1,2,6,F,Secondary,Christian,3,Norther region,urban
+10228,3,4,1,0,10,F,Secondary,Christian,1,Central region,urban
+10229,4,5,1,1,30,M,Tertiary,Other,2,Central region,urban
+10230,3,4,1,1,28,F,Primary,Muslim,2,Norther region,urban
+10231,1,2,0,0,2,F,Incomplete primary,Christian,1,Western region,urban
+10232,1,2,1,2,8,F,Primary,Jewish,1,Eastern region,urban
+10233,1,2,0,2,40,F,Incomplete primary,Christian,1,Central region,urban
+10234,0,1,0,2,28,M,Incomplete primary,Other,1,Western region,rural
+10235,2,3,1,2,44,M,Secondary,Jewish,3,Central region,urban
+10236,2,3,1,0,34,F,Primary,Jewish,2,Western region,urban
+10237,3,4,1,1,4,M,Secondary,Christian,3,Eastern region,urban
+10238,1,2,1,0,32,M,Primary,Muslim,2,Western region,urban
+10239,2,3,1,0,32,F,Primary,Other,2,Western region,urban
+10240,2,3,1,0,12,F,Incomplete primary,Muslim,1,Norther region,urban
+10241,3,4,1,0,42,M,Secondary,Christian,4,Western region,urban
+10242,3,4,1,1,46,F,Tertiary,Muslim,5,Norther region,urban
+10243,3,4,1,0,38,M,Primary,Other,2,Western region,urban
+10244,1,2,1,2,8,F,Primary,Christian,1,Central region,rural
+10245,4,5,1,2,22,F,Tertiary,Christian,2,Western region,urban
+10246,4,5,1,2,8,M,Primary,Muslim,1,Central region,urban
+10247,1,2,1,0,46,F,Tertiary,Christian,5,Western region,rural
+10248,1,2,1,0,4,F,Primary,Jewish,2,Southern region,urban
+10249,4,5,1,2,8,F,Incomplete primary,Christian,1,Southern region,urban
+10250,3,4,1,1,24,F,Tertiary,Christian,4,Southern region,urban
+10251,1,2,1,2,42,M,Tertiary,Jewish,1,Central region,urban
+10252,1,2,0,1,26,F,Primary,Other,2,Norther region,urban
+10253,2,3,1,1,10,M,Primary,Other,2,Central region,urban
+10254,1,2,0,0,4,F,Incomplete primary,Muslim,1,Southern region,urban
+10255,2,3,1,0,16,M,Secondary,Christian,1,Norther region,urban
+10256,3,4,1,2,28,M,Incomplete primary,Muslim,1,Eastern region,urban
+10257,2,3,1,2,14,M,Primary,Muslim,1,Central region,urban
+10258,1,2,1,1,30,M,Incomplete primary,Christian,1,Western region,urban
+10259,2,3,1,4,26,F,Secondary,Christian,3,Norther region,rural
+10260,0,1,1,2,38,M,Incomplete primary,Other,1,Central region,rural
+10261,2,3,1,2,10,M,Incomplete primary,Other,1,Central region,rural
+10262,1,2,1,0,44,F,Tertiary,Jewish,2,Central region,urban
+10263,3,4,0,2,28,M,Primary,Muslim,1,Western region,urban
+10264,3,4,1,2,16,F,Secondary,Other,4,Southern region,urban
+10265,0,1,1,0,32,F,Incomplete primary,Muslim,1,Central region,rural
+10266,1,2,1,2,46,F,Tertiary,Other,4,Western region,urban
+10267,3,4,1,0,26,F,Secondary,Other,1,Eastern region,urban
+10268,3,4,1,0,26,M,Tertiary,Jewish,1,Western region,urban
+10269,2,3,1,1,22,M,Primary,Muslim,3,Central region,rural
+10270,4,5,1,0,30,M,Primary,Christian,2,Southern region,urban
+10271,4,5,1,0,14,F,Primary,Muslim,2,Norther region,urban
+10272,4,5,1,1,20,F,Primary,Christian,3,Norther region,urban
+10273,3,4,0,1,26,M,Incomplete primary,Other,1,Central region,urban
+10274,2,3,1,2,42,F,Primary,Jewish,1,Eastern region,urban
+10275,4,5,1,0,30,M,Secondary,Jewish,3,Western region,urban
+10276,4,5,1,2,22,F,Primary,Christian,2,Norther region,urban
+10277,1,2,1,2,40,M,Secondary,Christian,4,Western region,rural
+10278,1,2,1,0,12,M,Primary,Christian,1,Eastern region,rural
+10279,2,3,1,2,4,F,Primary,Muslim,1,Southern region,rural
+10280,1,2,1,2,12,M,Secondary,Christian,1,Western region,urban
+10281,4,5,0,1,34,M,Primary,Other,1,Eastern region,urban
+10282,2,3,0,0,28,F,Primary,Jewish,1,Central region,rural
+10283,1,2,0,2,8,F,Primary,Christian,2,Norther region,urban
+10284,0,1,1,2,12,F,Incomplete primary,Other,1,Central region,rural
+10285,3,4,1,1,28,M,Primary,Muslim,1,Central region,urban
+10286,1,2,1,2,22,M,Incomplete primary,Jewish,1,Eastern region,urban
+10287,2,3,1,2,48,M,Secondary,Jewish,1,Western region,urban
+10288,0,1,1,2,4,M,Secondary,Muslim,1,Western region,rural
+10289,1,2,1,0,34,F,Secondary,Christian,4,Central region,urban
+10290,2,3,1,2,28,F,Primary,Jewish,2,Western region,rural
+10291,0,1,1,2,44,M,Incomplete primary,Christian,1,Eastern region,rural
+10292,3,4,1,1,26,F,Tertiary,Christian,2,Norther region,urban
+10293,3,4,1,1,34,F,Tertiary,Christian,2,Western region,urban
+10294,2,3,1,2,26,F,Primary,Jewish,2,Central region,rural
+10295,1,2,1,0,32,F,Tertiary,Other,3,Southern region,rural
+10296,2,3,1,0,34,F,Primary,Christian,1,Eastern region,rural
+10297,4,5,0,1,8,M,Primary,Muslim,1,Eastern region,urban
+10298,3,4,1,2,36,M,Tertiary,Christian,4,Central region,urban
+10299,2,3,1,0,34,M,Tertiary,Jewish,4,Central region,urban
+10300,2,3,1,1,26,F,Tertiary,Muslim,5,Southern region,rural
+10301,1,2,1,1,6,M,Secondary,Muslim,1,Eastern region,urban
+10302,1,2,1,1,6,M,Secondary,Christian,1,Western region,urban
+10303,2,3,1,0,48,M,Secondary,Christian,4,Central region,urban
+10304,2,3,1,2,14,F,Tertiary,Muslim,1,Western region,rural
+10305,4,5,1,2,40,M,Secondary,Christian,3,Southern region,urban
+10306,2,3,1,0,46,F,Incomplete primary,Jewish,1,Norther region,urban
+10307,2,3,0,2,16,M,Primary,Other,1,Eastern region,rural
+10308,1,2,1,1,14,M,Tertiary,Jewish,4,Southern region,urban
+10309,1,2,1,1,22,F,Tertiary,Muslim,5,Norther region,rural
+10310,4,5,1,0,16,F,Tertiary,Other,4,Central region,urban
+10311,2,3,1,2,28,M,Secondary,Christian,3,Central region,rural
+10312,0,1,1,3,40,F,Secondary,Other,3,Norther region,rural
+10313,2,3,1,2,42,F,Primary,Christian,1,Eastern region,rural
+10314,3,4,1,0,12,M,Primary,Other,3,Norther region,urban
+10315,1,2,1,1,40,F,Incomplete primary,Christian,1,Central region,rural
+10316,1,2,0,1,46,F,Primary,Christian,2,Central region,urban
+10317,4,5,1,2,24,F,Primary,Jewish,3,Eastern region,urban
+10318,1,2,1,2,38,F,Secondary,Other,4,Central region,rural
+10319,2,3,0,2,10,M,Incomplete primary,Christian,1,Norther region,rural
+10320,4,5,1,1,2,F,Tertiary,Christian,5,Southern region,urban
+10321,1,2,1,0,34,F,Secondary,Jewish,1,Eastern region,urban
+10322,1,2,1,0,20,M,Incomplete primary,Jewish,1,Eastern region,rural
+10323,3,4,1,1,42,F,Primary,Muslim,1,Norther region,urban
+10324,1,2,1,1,18,F,Tertiary,Christian,1,Central region,rural
+10325,4,5,1,1,38,M,Tertiary,Muslim,3,Central region,urban
+10326,3,4,1,0,10,M,Secondary,Jewish,2,Central region,urban
+10327,2,3,1,2,46,M,Tertiary,Jewish,3,Eastern region,urban
+10328,1,2,1,2,40,F,Tertiary,Jewish,3,Southern region,urban
+10329,1,2,1,2,38,F,Secondary,Muslim,4,Central region,urban
+10330,2,3,1,1,36,F,Tertiary,Other,1,Eastern region,urban
+10331,2,3,0,1,30,F,Incomplete primary,Other,1,Central region,urban
+10332,2,3,1,2,38,M,Primary,Jewish,3,Southern region,urban
+10333,1,2,1,0,6,M,Primary,Jewish,1,Southern region,rural
+10334,0,1,1,2,8,M,Tertiary,Jewish,4,Eastern region,rural
+10335,4,5,1,0,40,M,Tertiary,Other,2,Western region,urban
+10336,0,1,1,1,14,F,Secondary,Christian,1,Southern region,rural
+10337,4,5,1,1,36,F,Primary,Muslim,2,Eastern region,urban
+10338,2,3,0,1,48,M,Incomplete primary,Christian,1,Western region,urban
+10339,3,4,1,1,6,F,Tertiary,Other,4,Central region,urban
+10340,1,2,1,0,34,M,Tertiary,Muslim,4,Western region,urban
+10341,0,1,1,2,30,M,Primary,Muslim,2,Western region,rural
+10342,1,2,1,2,14,M,Primary,Christian,1,Norther region,urban
+10343,1,2,1,1,16,F,Secondary,Muslim,3,Central region,urban
+10344,2,3,1,1,20,F,Tertiary,Christian,5,Central region,rural
+10345,4,5,1,1,34,M,Incomplete primary,Jewish,1,Southern region,urban
+10346,3,4,1,1,30,M,Primary,Muslim,2,Central region,urban
+10347,4,5,1,0,30,F,Primary,Christian,2,Western region,urban
+10348,1,2,1,0,2,F,Primary,Christian,2,Western region,urban
+10349,3,4,1,1,22,M,Primary,Other,2,Southern region,urban
+10350,2,3,1,0,20,F,Tertiary,Christian,1,Western region,urban
+10351,3,4,0,2,22,M,Incomplete primary,Jewish,1,Central region,urban
+10352,2,3,0,2,18,F,Primary,Other,2,Norther region,urban
+10353,4,5,1,2,26,M,Incomplete primary,Christian,1,Southern region,urban
+10354,0,1,1,1,16,F,Secondary,Muslim,2,Western region,rural
+10355,3,4,1,2,16,F,Secondary,Muslim,1,Norther region,urban
+10356,2,3,1,2,28,M,Secondary,Christian,2,Norther region,urban
+10357,2,3,1,0,20,M,Primary,Muslim,3,Western region,urban
+10358,1,2,1,0,22,M,Primary,Jewish,3,Western region,rural
+10359,4,5,1,0,20,F,Tertiary,Christian,3,Southern region,urban
+10360,1,2,1,2,8,F,Primary,Other,1,Norther region,urban
+10361,1,2,1,1,30,M,Secondary,Muslim,2,Central region,urban
+10362,1,2,1,1,10,M,Primary,Christian,1,Norther region,urban
+10363,3,4,0,1,40,M,Incomplete primary,Christian,1,Eastern region,urban
+10364,2,3,1,1,28,F,Secondary,Christian,4,Southern region,rural
+10365,3,4,1,0,14,M,Primary,Jewish,2,Norther region,urban
+10366,2,3,1,1,32,F,Secondary,Jewish,3,Eastern region,urban
+10367,0,1,0,4,14,F,Primary,Jewish,2,Norther region,rural
+10368,2,3,1,4,12,M,Primary,Jewish,1,Norther region,rural
+10369,2,3,1,1,6,M,Tertiary,Christian,3,Western region,urban
+10370,1,2,1,0,28,F,Primary,Other,2,Southern region,urban
+10371,2,3,1,1,28,M,Secondary,Other,4,Norther region,urban
+10372,4,5,1,2,14,F,Incomplete primary,Christian,1,Norther region,urban
+10373,1,2,1,2,30,M,Secondary,Other,4,Central region,rural
+10374,3,4,1,1,4,M,Tertiary,Other,2,Norther region,urban
+10375,3,4,1,0,34,M,Primary,Muslim,2,Western region,urban
+10376,4,5,1,1,2,F,Tertiary,Other,1,Southern region,urban
+10377,1,2,1,2,8,F,Incomplete primary,Christian,1,Norther region,rural
+10378,0,1,1,0,24,M,Secondary,Christian,1,Western region,rural
+10379,2,3,1,2,26,F,Tertiary,Christian,5,Eastern region,rural
+10380,4,5,0,2,20,F,Primary,Other,2,Southern region,urban
+10381,1,2,1,0,6,F,Secondary,Jewish,1,Central region,urban
+10382,2,3,1,0,18,M,Tertiary,Christian,2,Central region,urban
+10383,1,2,1,2,8,F,Primary,Christian,1,Central region,rural
+10384,1,2,1,1,28,F,Secondary,Jewish,3,Norther region,urban
+10385,1,2,0,0,44,M,Incomplete primary,Christian,1,Norther region,urban
+10386,0,1,1,1,2,M,Tertiary,Christian,5,Western region,rural
+10387,1,2,1,1,20,M,Primary,Other,1,Southern region,rural
+10388,2,3,0,1,18,F,Incomplete primary,Jewish,1,Western region,urban
+10389,1,2,1,0,48,M,Tertiary,Muslim,2,Central region,urban
+10390,1,2,1,2,12,F,Primary,Other,3,Eastern region,urban
+10391,1,2,1,2,36,M,Secondary,Other,3,Southern region,rural
+10392,4,5,1,1,40,F,Secondary,Christian,1,Norther region,urban
+10393,2,3,1,3,28,M,Secondary,Jewish,3,Norther region,rural
+10394,4,5,1,0,40,M,Primary,Christian,2,Southern region,urban
+10395,4,5,1,0,28,F,Primary,Christian,2,Norther region,urban
+10396,1,2,1,2,44,F,Primary,Other,2,Western region,urban
+10397,1,2,0,2,18,M,Incomplete primary,Jewish,1,Central region,urban
+10398,3,4,1,2,24,M,Secondary,Christian,4,Eastern region,urban
+10399,3,4,0,1,6,M,Primary,Christian,2,Southern region,urban
+10400,2,3,1,2,32,F,Incomplete primary,Christian,1,Central region,rural
+10401,1,2,0,1,14,F,Primary,Jewish,1,Eastern region,urban
+10402,2,3,1,2,30,M,Secondary,Jewish,1,Eastern region,urban
+10403,4,5,1,1,14,M,Primary,Jewish,1,Norther region,urban
+10404,4,5,1,1,26,M,Tertiary,Jewish,2,Eastern region,urban
+10405,0,1,1,0,8,M,Tertiary,Muslim,3,Central region,rural
+10406,4,5,1,0,18,M,Tertiary,Muslim,5,Norther region,urban
+10407,2,3,1,1,46,M,Secondary,Jewish,4,Central region,urban
+10408,4,5,1,2,8,M,Tertiary,Jewish,3,Western region,urban
+10409,4,5,0,2,14,F,Incomplete primary,Christian,1,Eastern region,urban
+10410,1,2,1,0,32,F,Secondary,Other,2,Southern region,urban
+10411,2,3,1,2,44,F,Tertiary,Muslim,5,Norther region,urban
+10412,1,2,0,0,44,M,Primary,Other,2,Southern region,urban
+10413,0,1,1,1,2,F,Primary,Christian,3,Central region,rural
+10414,2,3,1,1,6,F,Tertiary,Muslim,2,Eastern region,urban
+10415,0,1,1,1,24,M,Secondary,Other,1,Eastern region,rural
+10416,2,3,1,2,2,F,Primary,Christian,3,Southern region,rural
+10417,4,5,0,1,6,M,Primary,Other,1,Eastern region,urban
+10418,4,5,1,1,20,F,Incomplete primary,Christian,1,Western region,urban
+10419,1,2,1,2,30,M,Primary,Other,3,Norther region,rural
+10420,1,2,1,0,24,F,Secondary,Jewish,4,Southern region,urban
+10421,2,3,1,0,22,M,Primary,Other,1,Western region,urban
+10422,2,3,1,1,36,M,Primary,Muslim,1,Eastern region,rural
+10423,4,5,1,2,40,F,Incomplete primary,Christian,1,Southern region,urban
+10424,0,1,1,1,10,M,Tertiary,Jewish,5,Norther region,rural
+10425,2,3,1,1,2,F,Primary,Christian,3,Eastern region,rural
+10426,3,4,1,2,36,F,Secondary,Jewish,4,Western region,urban
+10427,1,2,1,0,12,F,Primary,Christian,1,Eastern region,urban
+10428,4,5,1,1,12,M,Incomplete primary,Other,1,Central region,urban
+10429,2,3,1,2,30,F,Tertiary,Other,3,Western region,rural
+10430,3,4,1,2,28,M,Primary,Jewish,2,Eastern region,urban
+10431,0,1,1,1,28,F,Primary,Jewish,2,Eastern region,rural
+10432,1,2,1,1,42,F,Secondary,Christian,4,Norther region,urban
+10433,2,3,1,0,34,F,Primary,Jewish,1,Southern region,rural
+10434,4,5,1,1,14,F,Primary,Christian,1,Eastern region,urban
+10435,2,3,1,1,2,M,Secondary,Jewish,1,Central region,rural
+10436,1,2,1,4,34,M,Primary,Jewish,1,Norther region,rural
+10437,4,5,0,2,48,M,Primary,Christian,2,Central region,urban
+10438,3,4,1,1,8,M,Primary,Christian,1,Norther region,urban
+10439,4,5,1,2,4,F,Tertiary,Other,1,Eastern region,urban
+10440,3,4,0,2,32,M,Primary,Other,1,Central region,urban
+10441,4,5,1,1,28,F,Primary,Other,3,Western region,urban
+10442,1,2,1,2,40,M,Primary,Christian,2,Western region,rural
+10443,3,4,1,0,18,M,Tertiary,Christian,5,Eastern region,urban
+10444,4,5,1,1,2,F,Secondary,Christian,4,Norther region,urban
+10445,1,2,1,2,40,F,Primary,Jewish,1,Southern region,urban
+10446,2,3,1,1,38,F,Tertiary,Other,3,Norther region,urban
+10447,1,2,1,0,48,M,Primary,Christian,1,Eastern region,urban
+10448,2,3,1,1,44,F,Primary,Christian,2,Western region,rural
+10449,1,2,1,2,18,F,Secondary,Jewish,1,Eastern region,urban
+10450,0,1,1,0,46,M,Incomplete primary,Jewish,1,Southern region,rural
+10451,3,4,1,2,40,M,Secondary,Christian,2,Norther region,urban
+10452,0,1,1,2,16,M,Secondary,Jewish,2,Norther region,rural
+10453,2,3,0,4,32,F,Primary,Other,1,Norther region,rural
+10454,1,2,1,0,42,F,Secondary,Muslim,2,Western region,rural
+10455,0,1,0,0,14,F,Incomplete primary,Christian,1,Eastern region,rural
+10456,4,5,1,0,26,F,Tertiary,Christian,4,Southern region,urban
+10457,2,3,1,0,18,M,Secondary,Christian,3,Norther region,urban
+10458,3,4,1,0,34,M,Primary,Christian,2,Western region,urban
+10459,2,3,1,2,38,F,Incomplete primary,Muslim,1,Southern region,urban
+10460,2,3,1,2,2,F,Tertiary,Muslim,2,Eastern region,urban
+10461,3,4,1,0,30,F,Secondary,Other,2,Norther region,urban
+10462,1,2,0,3,14,M,Incomplete primary,Muslim,1,Norther region,rural
+10463,0,1,0,3,6,F,Incomplete primary,Muslim,1,Norther region,rural
+10464,4,5,1,0,40,M,Incomplete primary,Muslim,1,Western region,urban
+10465,2,3,0,1,6,M,Primary,Jewish,2,Southern region,urban
+10466,1,2,1,0,4,M,Tertiary,Jewish,3,Central region,rural
+10467,4,5,1,2,2,F,Tertiary,Christian,2,Central region,urban
+10468,0,1,1,1,22,F,Primary,Muslim,2,Central region,rural
+10469,1,2,1,4,28,F,Secondary,Christian,2,Norther region,rural
+10470,2,3,1,2,10,M,Secondary,Christian,3,Western region,rural
+10471,1,2,1,2,36,M,Tertiary,Muslim,1,Central region,urban
+10472,0,1,1,0,46,M,Primary,Christian,1,Central region,rural
+10473,2,3,1,2,10,M,Tertiary,Christian,5,Southern region,rural
+10474,1,2,1,2,26,F,Secondary,Christian,1,Eastern region,urban
+10475,4,5,1,2,48,F,Incomplete primary,Jewish,1,Southern region,urban
+10476,4,5,1,0,8,M,Incomplete primary,Jewish,1,Central region,urban
+10477,3,4,1,2,42,M,Tertiary,Christian,3,Eastern region,urban
+10478,2,3,1,1,14,F,Primary,Jewish,1,Norther region,urban
+10479,4,5,1,2,46,M,Tertiary,Christian,2,Western region,urban
+10480,1,2,1,2,6,M,Tertiary,Jewish,2,Norther region,urban
+10481,1,2,1,0,28,M,Primary,Muslim,1,Southern region,rural
+10482,0,1,1,0,18,M,Tertiary,Muslim,5,Southern region,rural
+10483,3,4,1,2,40,M,Primary,Jewish,1,Eastern region,urban
+10484,1,2,1,1,18,M,Primary,Christian,1,Eastern region,urban
+10485,3,4,1,0,46,M,Secondary,Christian,3,Eastern region,urban
+10486,3,4,1,0,40,F,Primary,Christian,1,Norther region,urban
+10487,2,3,1,0,42,M,Secondary,Jewish,3,Eastern region,rural
+10488,0,1,1,1,14,F,Primary,Muslim,2,Norther region,rural
+10489,0,1,1,1,48,M,Tertiary,Jewish,4,Central region,rural
+10490,2,3,1,2,20,M,Primary,Christian,2,Eastern region,rural
+10491,3,4,1,2,40,M,Tertiary,Christian,3,Norther region,urban
+10492,1,2,1,1,38,F,Tertiary,Muslim,2,Western region,rural
+10493,1,2,1,1,8,F,Secondary,Other,2,Norther region,rural
+10494,4,5,1,0,6,F,Secondary,Christian,4,Norther region,urban
+10495,3,4,1,2,22,M,Tertiary,Muslim,3,Western region,urban
+10496,1,2,1,2,28,M,Tertiary,Christian,5,Eastern region,rural
+10497,3,4,1,2,40,M,Primary,Christian,2,Eastern region,urban
+10498,1,2,0,1,40,M,Primary,Jewish,1,Eastern region,urban
+10499,3,4,1,2,36,F,Incomplete primary,Other,1,Western region,urban
+10500,4,5,1,1,32,M,Primary,Christian,1,Southern region,urban
